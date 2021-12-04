@@ -8,5 +8,5 @@
 - Give a space where peer reviews and assessment can be made
 - Create a folder for the project and upload all the necessary documents and codes there
 - Upload the codes with a proper syntax and indentation, add comments where necessary
-- See the Example folder
+- See the Example folder for better understanding
 - Any other doubts or queries, feel free to contact the co-ordinators
